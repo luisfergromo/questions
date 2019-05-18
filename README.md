@@ -1,4 +1,5 @@
-# my-app
+# Questions
+[![Netlify Status](https://api.netlify.com/api/v1/badges/19134294-6953-4d7e-93e7-98a6913b72ae/deploy-status)](https://app.netlify.com/sites/blissful-williams-98d44a/deploys)
 
 ## Project setup
 ```
